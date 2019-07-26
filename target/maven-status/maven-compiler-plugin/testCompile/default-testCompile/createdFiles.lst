@@ -1,0 +1,10 @@
+androidAutomation/pages/ChatPage.class
+androidAutomation/steps/DefinitionSteps.class
+DefinitionTestSuite.class
+androidAutomation/pages/JsonParse.class
+androidAutomation/MyAndroidDriver.class
+androidAutomation/pages/LoginPage.class
+androidAutomation/ILocators.class
+androidAutomation/pages/FriendsPage.class
+androidAutomation/pages/AndroidPages.class
+androidAutomation/steps/serenity/EndUserSteps.class

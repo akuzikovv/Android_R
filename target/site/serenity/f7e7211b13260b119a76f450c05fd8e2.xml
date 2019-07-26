@@ -1,0 +1,26 @@
+<acceptance-test-run title="Login" name="Login" description="" steps="4" successful="4" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="39101" timestamp="2019-07-26T13:32:12.101+03:00">
+  <user-story id="simple-test-for-android" name="Simple test for Android" path="Login.feature"/>
+  <tags>
+    <tag name="Simple test for android" type="feature"/>
+  </tags>
+  <test-group name="Given Wait while app would be loaded" result="SUCCESS">
+    <test-step result="SUCCESS" duration="40">
+      <description>Get dimensions</description>
+    </test-step>
+  </test-group>
+  <test-group name="When Type email to the email field" result="SUCCESS">
+    <test-step result="SUCCESS" duration="8076">
+      <description>Type email to the email field</description>
+    </test-step>
+  </test-group>
+  <test-group name="When Type password to the password field" result="SUCCESS">
+    <test-step result="SUCCESS" duration="5920">
+      <description>Type password to the password field</description>
+    </test-step>
+  </test-group>
+  <test-group name="When Click on the Login button" result="SUCCESS">
+    <test-step result="SUCCESS" duration="16777">
+      <description>Click on the login button</description>
+    </test-step>
+  </test-group>
+</acceptance-test-run>
